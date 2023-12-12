@@ -2,7 +2,7 @@ export { default as Ecommerce } from './Ecommerce';
 export { default as Kanban } from './Kanben';
 export { default as Orders } from './Order';
 export { default as Employee } from './Employee';
-export { default as Editor } from './Editor';
+export { default as Editors } from './Editor';
 export { default as Customers } from './Customers';
 export { default as ColorPicker } from './ColorPicker';
 export { default as Calendar } from './Calendar';

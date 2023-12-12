@@ -31,7 +31,7 @@ export default function App() {
     <Routes>
     { /* DASHBOARD*/}
     <Route path='/' element={<Ecommerce/>}/>
-    <Route path='/ecommerce' element={<Ecommerce/>}/>
+    // <Route path='/ecommerce' element={<Ecommerce/>}/>
     { /* PAGES*/}
     <Route path='/orders' element={<Orders/>}/>
     <Route path='/employees' element={<Employee/>}/>
