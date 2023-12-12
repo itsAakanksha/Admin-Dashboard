@@ -34,6 +34,7 @@ export const gridOrderImage = (props) => (
 );
 
 export const gridOrderStatus = (props) => (
+  
   <button
     type="button"
     style={{ background: props.StatusBg }}

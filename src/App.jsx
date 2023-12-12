@@ -20,7 +20,7 @@ export default function App() {
     </TooltipComponent>
     </div>
     {activemenu ? (
-      <div className='w-72 fixed sidebar dark:bg-secondary-dark-bg bg-white'>sidebar</div>
+      <div className='w-72 fixed sidebar dark:bg-secondary-dark-bg bg-white'><Sidebar/></div>
     ):(
       <div className='w-0 dark:bg-secondary-dark-bg'>remove sidebar</div>
     )}
